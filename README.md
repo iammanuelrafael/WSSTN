@@ -7,4 +7,4 @@ WSSTN is a website that focuses on the environment, minimalism and technology pr
 - [Instagram](https://www.instagram.com/wsstn_id/)
 - [Website](https://wsstn.github.io/wsstn/)
 
-<b>Note:</b> <i>This was a project that I made in 2020; it was my first attempt at making a professional website using HTML, CSS and Javascript, however, I abandoned this project due to work from school.</i>
+<b>Note:</b> <i>This project was made in 2020; it was my first attempt at making a professional website using HTML, CSS and Javascript, however, I abandoned this project due to work from school.</i>
