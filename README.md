@@ -1,6 +1,6 @@
 # WSSTN
 
-WSSTN is a website developed by me in 2020. The main objective of this website is to share my knowledge on the topic of environment, minimalism and technology through editorials or YouTube videos.
+WSSTN is a website developed by myself in 2020. The main objective of this website is to share my knowledge on the topic of environment, minimalism and technology through editorials or YouTube videos.
 
 <b>WSSTN Social Media (Inactive):</b>
 - [Youtube](https://www.youtube.com/channel/UCTCe6ZcR7TATGEd_4jScmVQ)
